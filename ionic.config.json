@@ -1,5 +1,7 @@
 {
   "name": "traccar_client",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
